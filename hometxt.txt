@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Main Page</title>
+<style>
+   .fir{
+     display:flex;
+     margin-right:100px;
+     
+    }
+   
+  .cont1{
+   display:flex;
+   align-items:baseline;
+
+
+}
+ button{
+ margin:10px;
+ padding:20px;
+ 
+}
+ .cont2{
+ display:flex;
+ 
+}
+.cont3{
+ display:flex;
+ 
+}
+.first{
+ margin-right:300px;
+ margin-left:50px;
+}
+.Log{
+ font-size:25px;
+}
+</style>
+</head>
+<body>
+     <div class="cont1">
+
+     <div class="fir">
+ <div>
+<img src="https://www.creativefabrica.com/wp-content/uploads/2018/11/Clock-timer-logo-by-Mansel-Brist-1.jpg" width="100" height="100">
+ </div>
+    <div> 
+    <h1>PROTRACK</h1>
+    <h5 style="color:violet;">Productivity Tracker</h5>
+    </div>
+</div>
+
+   
+     
+     <div class="flex2">
+    <div>
+     <button>FEATURES</button>
+     <button>USER DASHBOARD</button>
+     <button>FAQ</button>
+     <button>CONTACT US</button>
+     
+     </div>
+ </div>
+</div>
+
+     <hr><hr>
+     <div class="cont2">
+     <div class="first">
+     <p>In Order to check your productivity in work and self-evaluate yourself,get logged-in to monitor your performance efficiently</p>
+     <button class="Log">Login</button>
+     </div>
+     <div>
+        <img src="https://aletsys.com/_default_upload_bucket/employee-time-tracking.png" width="200" height="200">    
+        
+     </div>
+     </div>
+
+     <div class="cont3">
+  <div class="first">
+        <img src="https://aletsys.com/_default_upload_bucket/employee-time-tracking.png" width="200" height="200">  
+  </div>  
+        
+    <div>
+     <p>
+        Helps us to track time and maintain schedules 
+     </p>
+     </div>
+    </div>
+</body>
+     
+     
+     
+     
+
+
+
+
+</body>
+</html>
